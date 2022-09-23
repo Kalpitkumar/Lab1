@@ -8,3 +8,29 @@ body{
     background-attachment: fixed;
     font-family:poppins;
 }
+
+#members {
+    border-collapse: collapse;
+    width: 100%;
+  }
+#members a{
+    color: white;
+    text-decoration: none;
+  }
+  
+  #members td, #members th {
+    border: 1px solid rgba(221, 221, 221, 0.297);
+    padding: 8px;
+  }
+  
+  #members tr:nth-child(even){background-color: #f2f2f257;}
+  
+  #members tr:hover {background-color: rgba(221, 221, 221, 0.212);}
+  
+  #members th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04aa6d48;
+    color: white;
+  }
