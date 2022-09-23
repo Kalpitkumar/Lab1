@@ -3,7 +3,7 @@ body{
   width: 70%;
   margin: auto;
   padding: 0;
-  background-image:linear-gradient(to right, #c5c5c5ba, #e9e9e9ba),url('./images/background.jpg');
+  background-image:linear-gradient(to right, #c5c5c5ba, #e9e9e9ba),url('images/background.jpg');
   background-size: cover;
   background-attachment: fixed;
   font-family:poppins;
