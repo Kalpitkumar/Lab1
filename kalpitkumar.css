@@ -1,0 +1,37 @@
+body{
+    color: white;
+    width: 50%;
+    margin: auto;
+    padding: 0;
+    background-image:linear-gradient(to right, #0b1017a7, #01001880),url('../images/background.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    font-family:poppins;
+}
+
+
+
+
+    .borderBox {
+        border: 1px solid white;
+        padding: 50px;
+        margin: 20px;
+      }
+      .imgClass
+      {
+        border: 2px solid white;
+        padding: 5px;
+        margin: 20px;
+        width: 100px;
+        height: 100px;
+        align-self: center;
+        border-radius: 50%;
+    
+      }
+      .mainDiv
+      {
+        text-align: center;
+        border: 1px solid white;
+        padding: 50px;
+        margin: 20px;
+      }
