@@ -1,0 +1,37 @@
+body{
+    color: black;
+    width: 90%;
+    margin: auto;
+    padding: 0;
+    background-image:linear-gradient(to right, #bcbcbcba, #d5d5d5cc),url('../images/background.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    font-family:poppins;
+}
+
+.mainSection{
+    border: 2px solid black;
+    padding: 2%;
+    margin: 3%;
+}
+
+.headings h1,h2{
+    text-align: center;
+}
+
+.avtar{
+    text-align: center;
+}
+
+.avtar img{
+    width: 12%;
+    height: 12%;
+    border: 5px solid rgb(52, 52, 52);
+    border-radius: 50%;
+    padding: 1%;
+  }
+
+  .aboutme{
+    border: 1px solid black;
+    padding: 1% 2%;
+  }
