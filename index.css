@@ -1,53 +1,50 @@
 body{
-    color: black;
-    width: 70%;
-    margin: auto;
-    padding: 0;
-    background-image:linear-gradient(to right, #c5c5c5ba, #e9e9e9ba),url('../images/background.jpg');
-    background-size: cover;
-    background-attachment: fixed;
-    font-family:poppins;
-    text-align: center;
+  color: black;
+  width: 70%;
+  margin: auto;
+  padding: 0;
+  background-image:linear-gradient(to right, #c5c5c5ba, #e9e9e9ba),url('./images/background.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  font-family:poppins;
+  text-align: center;
 }
 
 .mainBody{
-  border: 2px solid black;
-  padding: 2%;
-  margin: 3%;
+border: 2px solid black;
+padding: 2%;
+margin: 3%;
 }
 
-<<<<<<< HEAD
 #members {
-    border-collapse: collapse;
-    width: 100%;
-    border: 1px solid black;
-  }
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid black;
+}
 #members a{
-    color: black;
-    text-decoration: none;
-  }
-  
-  #members td, #members th {
-    border: 1px solid rgba(111, 111, 111, 0.592);
-    padding: 8px;
-  }
-  
-  #members tr:nth-child(even){background-color: #f2f2f29c;}
-  
-  #members tr:hover {background-color: rgba(221, 221, 221, 0.412);}
-  
-  #members th {
-    padding-top: 12px;
-    padding-bottom: 12px;
-    text-align: left;
-    background-color: #04aa6d48;
-    color: black;
-  }
+  color: black;
+  text-decoration: none;
+}
 
-  .collegeLogo img{
-    width: 20%;
-    height: 20%;
-    border-radius: 50%;
-  }
-=======
->>>>>>> 10d57aca7d2aea85484216cfd19b45c80b35f176
+#members td, #members th {
+  border: 1px solid rgba(111, 111, 111, 0.592);
+  padding: 8px;
+}
+
+#members tr:nth-child(even){background-color: #f2f2f29c;}
+
+#members tr:hover {background-color: rgba(221, 221, 221, 0.412);}
+
+#members th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #04aa6d48;
+  color: black;
+}
+
+.collegeLogo img{
+  width: 20%;
+  height: 20%;
+  border-radius: 50%;
+}
