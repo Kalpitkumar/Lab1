@@ -1,0 +1,31 @@
+h1,h2{
+    width: 100%;
+  text-align: center;
+    display: inline-block;
+}
+img{
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid #555;
+}
+hr{
+    border: 1px solid #555;
+    width: 80%;
+}
+.full{
+    background-color: antiquewhite;
+    border: 1px solid #555;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+.about{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
